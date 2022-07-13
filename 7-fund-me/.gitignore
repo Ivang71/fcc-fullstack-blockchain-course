@@ -1,0 +1,16 @@
+node_modules
+.env
+.idea
+typechain
+typechain-types
+yarn-error.log
+
+#Hardhat files
+cache
+artifacts
+deployments
+
+#Testing
+coverage
+coverage.json
+gas-reporter.txt
